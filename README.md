@@ -4,5 +4,5 @@
 
 ### A passionate development, cybersecurity and networking.
 
-- 🔭 I’m currently working on [Nova Raider](https://discord.gg/8SyYVjGtzT)
+- 🔭 I’m currently working on [Nova Raider]()
 - 🌱 I'm currently learning by starting several projects
